@@ -521,7 +521,7 @@ ___WEB_PERMISSIONS___
                   },
                   {
                     "type": 8,
-                    "boolean": false
+                    "boolean": true
                   }
                 ]
               }
@@ -545,6 +545,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 8/14/2026, 3:10:40 PM
+Created on 8/14/2026, 6:37:18 PM
 
 
