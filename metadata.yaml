@@ -1,0 +1,9 @@
+homepage: "https://www.sktthemes.org/shop/skt-cookie-consent/"
+documentation: "https://sktthemesdemo.net/documentation/skt-cookie-consent-doc/"
+versions:
+  # Newest first. After each real commit to template.tpl, add the FULL commit
+  # SHA here (copy it from GitHub) so the gallery picks up the new version.
+  - sha: REPLACE_WITH_YOUR_COMMIT_SHA
+    changeNotes: |
+      Initial release. Google Consent Mode v2 support for SKT Cookie Consent
+      (sets default consent state and updates it from the CMP cookie).
